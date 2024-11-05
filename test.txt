@@ -1,0 +1,2 @@
+Hello!
+Here we try to understand, how to work with GitHub
